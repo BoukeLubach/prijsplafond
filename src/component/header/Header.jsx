@@ -62,7 +62,7 @@ class Header extends Component {
                     <div className="header-right">
                         <nav className="mainmenunav d-lg-block">
                             <ul className="mainmenu">
-                                <li><Link to="/">Home</Link></li>
+                                <li><Link to="/home">Home</Link></li>
 
                              
                                 <li><Link to="/about" >About</Link></li>

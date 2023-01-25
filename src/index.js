@@ -36,6 +36,7 @@ class Root extends Component{
                     <Switch>
 
                         <Route exact path={`${process.env.PUBLIC_URL}/home`} component={Home}/>
+                        <Route exact path={`${process.env.PUBLIC_URL}/`} component={Home}/>
 
                         
                         <Route path={`${process.env.PUBLIC_URL}/404`} component={error404}/>

@@ -3,10 +3,10 @@ import { useMemo } from 'react'
 import Infomodal from '../../blocks/modals/Infomodal'
 
 function Kostentabel(props) {
-    const plafondprijsgas = 1.5              //euro/Nm3
-    const plafondprijselectriciteit = 0.7    //euro/kWh
+    const plafondprijsgas = 1.45             //euro/Nm3
+    const plafondprijselectriciteit = 0.4    //euro/kWh
     const plafondverbruikgas = 1200
-    const plafondverbruikelektriceit = 2400
+    const plafondverbruikelektriceit = 2900
 
 
     const transportgas = 180  //liander, aansluiting 500-4000 Nm3/jaar https://www.liander.nl/uwtarieven/?ref=22743

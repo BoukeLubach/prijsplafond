@@ -16,7 +16,7 @@ With this tool, people can estimate their energy cost with and without the cap.
 ## Running the app
 
 ```
-git clone https://github.com/BoukeLubach/prijsplafond
+git clone https://github.com/BoukeLubach/prijsplafond.git
 ```
 
 ### Using NPM
